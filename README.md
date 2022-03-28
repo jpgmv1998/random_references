@@ -321,6 +321,16 @@ peer-reviewed journal.
 
 [Public Speaking for Academic Economists - Rachael Meager](https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0)
 
+[Tips on Being a Good Discussant](https://www.dallasfed.org/~/media/documents/educate/events/esp/tipsdiscussant.pdf)
+
+### Referee Reports
+
+:star: [Guidelines for Referee Reports (2004)](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf)
+
+:star: [Preparing a Referee Report: Guidelines and Perspectives - Berk et al. (2015)](https://www.aeaweb.org/content/file?id=222)
+
+:star: [How to Write an Effective Referee Report and Improve the Scientific Review Process - Berk et al. (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
+
 ### References Manager
 
 [Managing references for research - Alex Hollingsworth](https://hollina.github.io/managing-references.html) - This article will outline one approach to setting up the free reference manager Zotero that can be easily integrated with Latex. While I use Latex and Zotero, there are of course other (and likely better) workflows. Certainly a similar set-up can be created using many different software combinations (e.g., Microsoft Word + EndNote). This is only meant as an introduction to see what’s possible. With the goal of reducing the cost of writing and producing research papers.
