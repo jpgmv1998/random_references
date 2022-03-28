@@ -24,6 +24,8 @@
 - [Other Resources](#other-resources)
   - [Writing Tips](#writing-tips)
   - [Presentation Tips](#presentation-tips)
+  - [Referee Reports](#referee-reports)
+  - [References Manager](#references-manager)
   - [Other Lists of Resources](#other-lists-of-resources)
   
   
@@ -295,6 +297,12 @@ This is a curated list of our technical postings, to serve as a one-stop shop fo
 
  
 ## Other Resources  
+
+### General Advice
+
+[The Young Economist's Guide to Professional Etiquette - Hamermesh (1992)](https://www.aeaweb.org/articles?id=10.1257/jep.6.1.169)
+
+[Discussing, refereeing, dealing with rejections, and keeping up to date - Ryan B. Edwards (2020)](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f8a697036835c73a799af41/1602906483418/reviewing.pdf)
 
 ### Writing Tips
  
