@@ -1,7 +1,6 @@
 # Random (hopefully useful) References
-# Random (hopefully useful) References
 
- File intended to store references that may be useful for empirical work focused on data science tools (emphasis in R). Files with :star: are personal favorites.
+ File intended to store references that may be useful for empirical work focused on data science tools (emphasis in R) and academic tips (emphasis in Economists). Files with :star: are personal favorites.
  
 # Table of Contents
 
