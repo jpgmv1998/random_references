@@ -1,6 +1,7 @@
 # Random (hopefully useful) References
+# Random (hopefully useful) References
 
- File intended to store references that may be useful for empirical work focused on data science tools (emphasis in R) and academic tips (emphasis in Economics). Files with :star: are personal favorites.
+ File intended to store references that may be useful for empirical work focused on data science tools (emphasis in R). Files with :star: are personal favorites.
  
 # Table of Contents
 
@@ -24,7 +25,7 @@
 - [Other Resources](#other-resources)
   - [Writing Tips](#writing-tips)
   - [Presentation Tips](#presentation-tips)
-  - [Other List of Resources](#other-list-of-resources)
+  - [Other Lists of Resources](#other-lists-of-resources)
   
   
 ## Reproducibility 
@@ -47,6 +48,8 @@
 
 ### Guides
 
+:star: [Code and Data Guide - Gentzkow & Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) - Code and Data for the Social Sciences: A Practitioner’s Guide by Matthew Gentzkow and Jesse M. Shapiro (2014).
+
 :star: [Tilburg Science Hub](https://tilburgsciencehub.com/) - Tilburg Science Hub (TSH) is an open-source online resource that helps individual researchers, data scientists, and teams to efficiently carry out data- and computation-intensive projects. It provides information about workflow and data management and tutorials that teach researchers how to organize and document their data and code, so the research becomes sustainable and reproducible. This in turn leads to time savings and transparency in the process.
 
 :star: [Development Research in Practice: The DIME Analytics Data Handbook](https://worldbank.github.io/dime-data-handbook/) - This book is intended to teach all users of development data how to handle data effectively, efficiently, and ethically. It covers the full data workflow for a complex research project using original data.
@@ -55,13 +58,19 @@
 
 :star: [Unofficial guidance on various topics by the AEA Data Editor](https://aeadataeditor.github.io/aea-de-guidance/) - AEA Data Editor Unofficial Guidance on how to create data and code replicable supplements.
 
+:star: [Coding for Economists: A Language-Agnostic Guide to Programming for Economists - Ljubica “LJ” Ristovska](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - The first part of the presentation focuses on general computer science concepts, guidelines, and programming tips. The second part of the presentation with Frank Pinter will introduce version control via Git
+
+:star: [Translating Stata to R](https://stata2r.github.io/) - This website is for Stata users who are interested in learning R. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.
+
+[Social Science Reproduction Platform](https://www.socialsciencereproduction.org/) - The Social Science Reproduction Platform (SSRP) crowdsources and catalogs attempts to assess and improve the computational reproducibility of social science research. Instructors can use the SSRP in applied social science courses at the graduate or undergraduate levels to teach fundamental concepts, methods, and reproducible research practices.
+
 [Project TIER](https://www.projecttier.org/about/about-project-tier/) - Project dedicated to developing methods and tools for enhancing research transparency.
 
 [Unofficial guidance on various topics by Social Science Data Editors](https://social-science-data-editors.github.io/guidance/) - Guidance on creating replicable data and program archives. Guidance on testing replicability of code.
 
 [Replication tutorial - Lars Vilhuber](https://labordynamicsinstitute.github.io/replication-tutorial-2019/#/12) - Replication and Reproducibility in Social Sciences and Statistics: Overview and Practice (2019).
 
-[Code and Data Guide - Gentzkow & Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) - Code and Data for the Social Sciences: A Practitioner’s Guide by Matthew Gentzkow and Jesse M. Shapiro (2014).
+[Cutting Edge Reproducibility in Economics - Lars Vilhuber](https://labordynamicsinstitute.github.io/bitss-cutting-edge-2022/#1) - Prepared for presentation at BITSS 2022 Annual Meeting on 2022-02-11. This presentation is about reproducibility, and it is created in a reproducible way.
 
 [RA Manual - Gentzkow & Shapiro Lab](https://github.com/gslab-econ/ra-manual/wiki) - Manual intended to introduce their workflow for new Research Assistants 
 
@@ -71,6 +80,10 @@
 
 
 ### Other
+
+:star: [GitHub and Dropbox](https://github.com/kbjarkefur/GitHubDropBox) - Tutorial on how to combine GitHub and DropBox
+
+:star: [A Brief Introduction to GitHub for Social Scientists using Stata and Dropbox](https://github.com/hpellegrina/hello-world-econ/blob/master/documentation/github-manual.pdf) - This is a Hello World for social scientists using Stata and Dropbox! Here, we will walk through the basics of GitHub: how to download a repository from the internet, how to integrate your repository with Dropbox, and how to upload the changes that you made in your repository to the cloud of GitHub.
 
 [Replicability Presentations - Lars Vilhuber](https://github.com/labordynamicsinstitute/replicability-presentation-2020) - In this talk, I describe the context in which the current discussion in the social science is occurring: what are the definitions of replicability and reproducibility, what is failing, and to what extent. I discuss progress over the past 15 years. Finally, I discuss the concrete measures that have been implemented under my guidance at the American Economic Association, and the first preliminary outcomes from those measures. I conclude with some observations on how to integrate reproducibility into the scientific workflow in the social and statistical sciences.
  
@@ -92,6 +105,8 @@
 :star: [Advanced R Book](https://adv-r.hadley.nz/) - Book designed primarily for R users who want to improve their programming skills and understanding of the language.
 
 :star: [Data Visualization with R](https://rkabacoff.github.io/datavis/) - This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
+
+:star: [Data Visualization: A practical introduction - Kieran Healy](https://socviz.co/index.html#preface) - This book is a hands-on introduction to the principles and practice of looking at and presenting data using R and ggplot. R is a powerful, widely used, and freely available programming language for data analysis. You may be interested in exploring ggplot after having used R before, or be entirely new to both R and ggplot and just want to graph your data. I do not assume you have any prior knowledge of R.
 
 :star: [Data Science for Economists - Grant R. McDermott](https://github.com/uo-ec607/lectures) - Introduction to the modern data science toolkit (focused on R) graduate course.
 
@@ -133,6 +148,8 @@
 
 [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/) - This book aims particularly at spatial data processing for econometric projects, where spatial variables become part of econometric analysis. 
 
+[Open-Source Spatial Analytics (R)](http://www.wvview.org/Open_Source_Spatial_Analytics.html) - In this course, you will learn to work within the free and open-source R environment with a specific focus on working with and analyzing spatial data.
+
 [Spatio-Temporal Statistics with R](https://spacetimewithr.org/) - Book about spatial statistics topics
 
 [Spatial Data Science with R and “terra”](https://rspatial.org/terra/index.html) - Resources that teach spatial data analysis using the new package "terra" that will substitute the  "raster" package
@@ -159,6 +176,8 @@
 
 :star: [data.table](https://rdatatable.gitlab.io/data.table/) - package for data manipulation. Fast, memory efficient, concise, stable, dependency-free. Recommended for large data.
 
+:star: [collapse](https://sebkrantz.github.io/collapse/index.html) - collapse is a C/C++ based package for data transformation and statistical computing in R. It’s aims are: To facilitate complex data transformation, exploration and computing tasks in R. To help make R code fast, flexible, parsimonious and programmer friendly. It further implements a class-agnostic approach to data manipulation in R, supporting base R, dplyr (tibble), data.table, sf, plm classes for panel data (‘pseries’ and ‘pdata.frame’), and non-destructively handling other matrix or data frame based classes (including most time series classes such as ‘ts’, ‘xts’ / ‘zoo’, ‘timeSeries’, ‘tsibble’, ‘tibbletime’, etc.).
+
 [dtplyr](https://dtplyr.tidyverse.org/) - dtplyr provides a data.table backend for dplyr. The goal of dtplyr is to allow you to write dplyr code that is automatically translated to the equivalent, but usually much faster, data.table code.
 
 [tidyfast](https://tysonbarrett.com/tidyfast/) - provide fast and efficient alternatives to some tidyr (and a few dplyr) functions using data.table under the hood.
@@ -172,6 +191,8 @@
 :star: [sf](https://r-spatial.github.io/sf/) - spatial manipulation (vector-based)
 
 :star: [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) - spatial manipulation (raster-based)
+
+:star: [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) - With the tmap package, thematic maps can be generated with great flexibility. The syntax for creating plots is similar to that of ggplot2, but tailored to maps.
 
 [leaflet](https://rstudio.github.io/leaflet/) - plot interactive maps
 
@@ -198,6 +219,10 @@ producing the type of “out of the box” summary tables that economists like.
 
 [HonestDiD](https://github.com/asheshrambachan/HonestDiD) - Robust inference in differences-in-differences and event study designs using methods developed in Rambachan and Roth (2019).
 
+[RDD Packages](https://rdpackages.github.io/) - Software packages for analysis and interpretation of regression discontinuity designs and related methods. Replication files and illustration codes employing these packages are also available.
+
+[NP Packages](https://nppackages.github.io/) - Software packages for nonparametric and semiparametric smoothing methods with application to causal inference, treatment effect and program evaluation estimation and inference. Replication files and illustration codes employing these packages are also available.
+
 [RDDtools](https://github.com/MatthieuStigler/RDDtools) - RDDtools is a new R package under development, designed to offer a set of tools to run all the steps required for a Regression Discontinuity Design (RDD) Analysis, from primary data visualisation to discontinuity estimation, sensitivity and placebo testing.
 
 [gsynth](https://yiqingxu.org/software/gsynth/gsynth_examples.html) - R package for [Generalized Synthetic Control Method: for Causal Inference with Interactive Fixed Effect Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2584200).
@@ -222,9 +247,15 @@ producing the type of “out of the box” summary tables that economists like.
 
 :star: [Causal Inference: The Mixtape - Scott Cunningham](https://mixtape.scunning.com/index.html) - Scott Cunningham introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages.
 
+:star: [The Effect: An Introduction to Research Design and Causality - Nick Huntington-Klein](https://theeffectbook.net/) - The Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data.
+
 :star: [Econometrics - Bruce Hansen](https://www.ssc.wisc.edu/~bhansen/econometrics/) -  This textbook is the second in a two-part series covering the core material typically taught in a one-year Ph.D. course in econometrics. 
 
 :star: [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) - List of papers with recent advances in applied micro methods
+
+:star: [DiD Reading Group](https://taylorjwright.github.io/did-reading-group/) - Presentation of recent papers in the DiD literature by their authors. 
+
+:star:[Diff-in-Diff Notes - Asjad Naqvi](https://github.com/asjadnaqvi/Diff-in-Diff-Notes) - This repository tracks the recent developments in the Difference-in-Difference (DiD) literature. Currently, it is just a dump of my bookmarks from different websites including Twitter, GitHub, YouTube etc. This will be sorted out over time as the literature converges to some consensus. But this might still take a while.
 
 :star: [How to Do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/Pageperso/kramarz/v30i2a1.pdf) - This article presents a discussion among leading economists on how to do empirical research in economics. The participants discuss their reasons for starting research projects, database construction, the methods they use, the role of theory, and their views on the main alternative empirical approaches The article ends with a discussion of a set of articles which exemplify best practice in empirical work.
 
@@ -234,6 +265,10 @@ This is a curated list of our technical postings, to serve as a one-stop shop fo
 :star: [Applied Empirical Methods - Paul Goldsmith-Pinkham](https://github.com/paulgp/applied-methods-phd) - This course is primarily designed for graduate students interested in econometric methods used in empirical research. The goal of this class is to provide an overview of different empirical methods, with an emphasis on practical implementation.
 
 :star: [Guia Brasileiro de Análise de Dados: Armadilhas e Soluções](https://repositorio.enap.gov.br/bitstream/1/6039/1/Guia%20BR%20de%20Ana%cc%81lise%20de%20Dados.pdf) - a book about Brazilian data (crime, health, education, etc.) presenting common pitfalls and solutions when working with it (reference in Portuguese).
+
+:star: [The Gary Chamberlain Online Seminar in Econometrics](https://www.chamberlainseminar.org/past-seminars) - Paper presentations, symposiums and tutorials about many Econometric topics.
+
+[Introduction to Causal Inference - Brady Neal](https://www.bradyneal.com/causal-inference-course)
 
 [Ph.D. Econometrics (III) taught with R - Ed Rubin](https://github.com/edrubin/EC607S21) - Econometrics with R graduate course.
 
@@ -249,7 +284,7 @@ This is a curated list of our technical postings, to serve as a one-stop shop fo
 
 [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html) -  Interactive learning material that blends R code with the contents of the well-received textbook Introduction to Econometrics by Stock and Watson (2015).
 
-[Library of Statistical Techniques (LOST)](lost-stats.github.io/) - Publicly-editable website to make it easy to execute statistical techniques in statistical software.
+[Library of Statistical Techniques (LOST)](https://lost-stats.github.io/) - Publicly-editable website to make it easy to execute statistical techniques in statistical software.
 
 ## Other Data Science Tools 
 
@@ -267,16 +302,42 @@ This is a curated list of our technical postings, to serve as a one-stop shop fo
 :star: [How to Write Applied Papers in Economics - Marc F. Bellemare](http://marcfbellemare.com/wordpress/wp-content/uploads/2020/09/BellemareHowToPaperSeptember2020.pdf) - The goal of this paper is to teach readers how to write applied economics papers that will eventually be published in a
 peer-reviewed journal. 
 
-[Writing Tips for Ph. D. Students - John H. Cochrane](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) - Some tips on how to write academic articles
+:star: [Writing Tips for Ph. D. Students - John H. Cochrane](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) - Some tips on how to write academic articles
 
-[Writing Papers: A Checklist - Michael Kremer](http://qed.econ.queensu.ca/pub/faculty/sumon/mkremer_checklist_paper.pdf) - 
+[Writing Papers: A Checklist - Michael Kremer](http://qed.econ.queensu.ca/pub/faculty/sumon/mkremer_checklist_paper.pdf) 
+
+[Writing Tips For Economics Research Papers - Plamen Nikolov](https://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
+
+[The Introduction Formula - Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula) 
+
+[Aphorisms on Writing, Speaking, and Listening - Eric Rasmusen](http://rasmusen.org/GI/reader/writing.pdf) - This article collects aphorisms on the mechanics of doing research in economics, emphasizing writing, speaking, and seminar participation. They are intended for both students and for scholars and are useful beyond just economics.
 
 ### Presentation Tips
 
-[How to Give an Applied Micro Talk - Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf) 
+:star: [How to Give an Applied Micro Talk - Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf) 
+
+[Tips on how to avoid disaster in presentations - Monika Piazzesi](https://economics.ucla.edu/wp-content/uploads/2016/10/piazzesi.pdf)
+
+[How to Present Results - David Levine](http://faculty.haas.berkeley.edu/levine/cheap_advice.html#results)
+
+[Public Speaking for Academic Economists - Rachael Meager](https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0)
+
+### References Manager
+
+[Managing references for research - Alex Hollingsworth](https://hollina.github.io/managing-references.html) - This article will outline one approach to setting up the free reference manager Zotero that can be easily integrated with Latex. While I use Latex and Zotero, there are of course other (and likely better) workflows. Certainly a similar set-up can be created using many different software combinations (e.g., Microsoft Word + EndNote). This is only meant as an introduction to see what’s possible. With the goal of reducing the cost of writing and producing research papers.
 
 ### Other Lists of Resources
 
 :star: [Resources for PhD Students - Shanjun Li](http://li.dyson.cornell.edu/phdRes.php) - For mere mortals, the road to a PhD is long, lonely, arduous, and full of twists and turns. Among other things, it demands patience, perseverance, an open mind, and the courage to seek help. Owing to the generosity of the authors, this list of resources below provides useful guidance from start to finish. Use them well and your journey will be less bumpy.
 
+:star: [Links for Advice to PhD Students - Tobias Klein](https://www.tobiasklein.ws/ph-d-students)
+
+[Resources - Jennifer Doleac](http://jenniferdoleac.com/resources/)
+
+[Resources - Ryan B Edwards](http://www.ryanbedwards.com/resources)
+
+[Resources - Patrick Button](https://www.patrickbutton.com/resources)
+
 [Useful Links - Anthony Lee Zang](https://docs.google.com/document/d/10_wQWeDSU2DCJSfM3UjwXPGLZhxcQCDci69zNR_lgQI/edit)
+
+[An unofficial guidebook for PhD students in economics and education](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf)
