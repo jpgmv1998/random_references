@@ -159,17 +159,17 @@
 
 #### Packages for Reproducibility
 
+:star: [groundhog](http://groundhogr.com/) - Reproducible Scripts via Version-Specific Package Loading 
+
 :star: [renv](https://rstudio.github.io/renv/articles/renv.html) - Underlying the philosophy of renv is that any of your existing workflows should just work as they did before – renv helps manage library paths (and other project-specific states) to help isolate your project’s R dependencies, and the existing tools you’ve used for managing R packages (e.g. install.packages(), remove.packages()) should work as they did before
 
-:star: [workflowr](https://jdblischak.github.io/workflowr/index.html) - The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr.
+[workflowr](https://jdblischak.github.io/workflowr/index.html) - The workflowr R package helps researchers organize their analyses in a way that promotes effective project management, reproducibility, collaboration, and sharing of results. Workflowr combines literate programming (knitr and rmarkdown) and version control (Git, via git2r) to generate a website containing time-stamped, versioned, and documented results. Any R user can quickly and easily adopt workflowr.
 
 [targets](https://github.com/ropensci/targets) - The targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets skips costly runtime for tasks that are already up to date, runs the necessary computation with implicit parallel computing, and abstracts files as R objects. A fully up-to-date targets pipeline is tangible evidence that the output aligns with the code and data, which substantiates trust in the results
 
 [steveproj](http://svmiller.com/blog/2021/03/handle-academic-projects-steveproj-make/) - his package will allow a researcher to start and better maintain an academic project around Make, the R programming language, Rstudio, and some other features of my R ecosystem (prominently: {stevetemplates}). Features of {steveproj} are subject to change while in development but the core of it is, I think, ready to go.
 
 [checkpoint](https://cran.r-project.org/web/packages/checkpoint/vignettes/checkpoint.html#using-checkpoint) - The goal of the checkpoint package is to solve the problem of package reproducibility in R. Since packages get updated on CRAN all the time, it can be difficult to recreate an environment where all your packages are consistent with some earlier state. To solve this issue, checkpoint allows you to install packages locally as they existed on a specific date from the corresponding snapshot (stored on the checkpoint server) and it configures your R session to use only these packages. Together, the checkpoint package and the checkpoint server act as a CRAN time machine so that anyone using checkpoint() can ensure the reproducibility of their scripts or projects at any time.
-
-[groundhog](http://groundhogr.com/) - Reproducible Scripts via Version-Specific Package Loading 
 
 #### Data Frame Manipulation
 
@@ -191,9 +191,11 @@
 
 :star: [sf](https://r-spatial.github.io/sf/) - spatial manipulation (vector-based)
 
-:star: [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) - spatial manipulation (raster-based)
+:star: [terra]([https://cran.r-project.org/web/packages/raster/raster.pdf](https://rspatial.org/terra/pkg/index.html)) - spatial manipulation (raster-based)
 
 :star: [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) - With the tmap package, thematic maps can be generated with great flexibility. The syntax for creating plots is similar to that of ggplot2, but tailored to maps.
+
+[mapsf](https://riatelab.github.io/mapsf/) - Create and integrate thematic maps in your R workflow. This package helps to design various cartographic representations such as proportional symbols, choropleth or typology maps. It also offers several functions to display layout elements that improve the graphic presentation of maps (e.g. scale bar, north arrow, title, labels). mapsf maps sf objects on base graphics
 
 [leaflet](https://rstudio.github.io/leaflet/) - plot interactive maps
 
@@ -256,7 +258,7 @@ producing the type of “out of the box” summary tables that economists like.
 
 :star: [DiD Reading Group](https://taylorjwright.github.io/did-reading-group/) - Presentation of recent papers in the DiD literature by their authors. 
 
-:star:[Diff-in-Diff Notes - Asjad Naqvi](https://github.com/asjadnaqvi/Diff-in-Diff-Notes) - This repository tracks the recent developments in the Difference-in-Difference (DiD) literature. Currently, it is just a dump of my bookmarks from different websites including Twitter, GitHub, YouTube etc. This will be sorted out over time as the literature converges to some consensus. But this might still take a while.
+:star: [Diff-in-Diff Notes - Asjad Naqvi](https://github.com/asjadnaqvi/Diff-in-Diff-Notes) - This repository tracks the recent developments in the Difference-in-Difference (DiD) literature. Currently, it is just a dump of my bookmarks from different websites including Twitter, GitHub, YouTube etc. This will be sorted out over time as the literature converges to some consensus. But this might still take a while.
 
 :star: [How to Do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/Pageperso/kramarz/v30i2a1.pdf) - This article presents a discussion among leading economists on how to do empirical research in economics. The participants discuss their reasons for starting research projects, database construction, the methods they use, the role of theory, and their views on the main alternative empirical approaches The article ends with a discussion of a set of articles which exemplify best practice in empirical work.
 
