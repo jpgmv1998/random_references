@@ -153,8 +153,6 @@
 
 [Spatio-Temporal Statistics with R](https://spacetimewithr.org/) - Book about spatial statistics topics
 
-[Spatial Data Science with R and “terra”](https://rspatial.org/terra/index.html) - Resources that teach spatial data analysis using the new package "terra" that will substitute the  "raster" package
-
 ### R Packages
 
 #### Packages for Reproducibility
@@ -191,7 +189,7 @@
 
 :star: [sf](https://r-spatial.github.io/sf/) - spatial manipulation (vector-based)
 
-:star: [terra]([https://cran.r-project.org/web/packages/raster/raster.pdf](https://rspatial.org/terra/pkg/index.html)) - spatial manipulation (raster-based)
+:star: [terra](https://rspatial.org/terra/pkg/index.html) - spatial manipulation (raster-based)
 
 :star: [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) - With the tmap package, thematic maps can be generated with great flexibility. The syntax for creating plots is similar to that of ggplot2, but tailored to maps.
 
