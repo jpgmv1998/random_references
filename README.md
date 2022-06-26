@@ -269,6 +269,8 @@ This is a curated list of our technical postings, to serve as a one-stop shop fo
 
 :star: [The Gary Chamberlain Online Seminar in Econometrics](https://www.chamberlainseminar.org/past-seminars) - Paper presentations, symposiums and tutorials about many Econometric topics.
 
+[Program Evaluation for Public Service - Andrew Heiss](https://evalf20.classes.andrewheiss.com/) - Combine research design, causal inference, and econometric tools to measure the effects of social programs (intensive use of R)
+
 [Introduction to Causal Inference - Brady Neal](https://www.bradyneal.com/causal-inference-course)
 
 [Ph.D. Econometrics (III) taught with R - Ed Rubin](https://github.com/edrubin/EC607S21) - Econometrics with R graduate course.
