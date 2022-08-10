@@ -333,6 +333,10 @@ peer-reviewed journal.
 
 [Tips on Being a Good Discussant](https://www.dallasfed.org/~/media/documents/educate/events/esp/tipsdiscussant.pdf)
 
+[The “Big 5” and Other Ideas*  For Presentations - Donald Cox](https://econ.lse.ac.uk/staff/spischke/phds/The%20Big%205.pdf)
+
+[How To Give an Economics Talk - Adam Guren and Stephen Terry](https://www.bu.edu/econ/files/2017/07/EconTalkAdvice.pdf)
+
 ### Referee Reports
 
 :star: [Guidelines for Referee Reports (2004)](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf)
