@@ -313,6 +313,8 @@ peer-reviewed journal.
 
 :star: [Writing Tips for Ph. D. Students - John H. Cochrane](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) - Some tips on how to write academic articles
 
+:star: [Great Economics Writing - Mixtape Sessions](https://great-economics-writing.netlify.app/results/)
+
 [Writing Papers: A Checklist - Michael Kremer](http://qed.econ.queensu.ca/pub/faculty/sumon/mkremer_checklist_paper.pdf) 
 
 [Writing Tips For Economics Research Papers - Plamen Nikolov](https://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
