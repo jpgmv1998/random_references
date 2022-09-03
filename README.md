@@ -317,7 +317,7 @@ peer-reviewed journal.
 
 [Writing Papers: A Checklist - Michael Kremer](http://qed.econ.queensu.ca/pub/faculty/sumon/mkremer_checklist_paper.pdf) 
 
-[Writing Tips For Economics Research Papers - Plamen Nikolov](https://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
+[Writing Tips For Economics Research Papers - Plamen Nikolov](https://docs.iza.org/dp15057.pdf)
 
 [The Introduction Formula - Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula) 
 
