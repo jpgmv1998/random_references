@@ -254,6 +254,8 @@ producing the type of “out of the box” summary tables that economists like.
 
 :star: [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) - List of papers with recent advances in applied micro methods
 
+:star: [Mixtape-Sessions - Scott Cunningham](https://github.com/Mixtape-Sessions) - Mixtape Sessions aims to provide high-quality and approachable courses in Casual Inference. Multiple times per year our Causal-Inference Democratizer in Chief, Scott Cunningham, hosts our "Mixtape Sessions" which are our flagship, multi-day workshops aimed towards early causal-inference learners. We also welcome researchers working on the frontier of causal inference methods to host "Mixtape Tracks" which are shorter workshops aimed at advanced topics.
+
 :star: [DiD Reading Group](https://taylorjwright.github.io/did-reading-group/) - Presentation of recent papers in the DiD literature by their authors. 
 
 :star: [Diff-in-Diff Notes - Asjad Naqvi](https://github.com/asjadnaqvi/Diff-in-Diff-Notes) - This repository tracks the recent developments in the Difference-in-Difference (DiD) literature. Currently, it is just a dump of my bookmarks from different websites including Twitter, GitHub, YouTube etc. This will be sorted out over time as the literature converges to some consensus. But this might still take a while.
