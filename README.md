@@ -111,6 +111,8 @@
 
 :star: [Data Science for Economists - Grant R. McDermott](https://github.com/uo-ec607/lectures) - Introduction to the modern data science toolkit (focused on R) graduate course.
 
+:star: [Course Materials for Advanced Data Analytics in Economics - Nick Hagerty](https://github.com/uo-ec607/lectures) - The idea is to explicitly teach skills/tools that otherwise are only gained through RA experiences. Help level the playing field for research/PhDs/predocs.
+
 [Data Science for Economists and Other Animals - Grant R. McDermott](http://grantmcdermott.com/ds4e/) - This is the website for Data Science for Economists and Other Animals. The book is very much in the early development stages, but draws from lecture material that we have been refining over the last several years.
 
 :star: [Telling Stories With Data - Rohan Alexander](https://www.tellingstorieswithdata.com/) - The focus is on using quantitative methods to tell stories with data.
