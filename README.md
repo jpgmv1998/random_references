@@ -331,6 +331,8 @@ peer-reviewed journal.
 
 :star: [How to Give an Applied Micro Talk - Jesse M. Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf) 
 
+[Tips + Tricks with Beamer for Economists - Paul Goldsmith-Pinkham](https://github.com/paulgp/beamer-tips)
+
 [Tips on how to avoid disaster in presentations - Monika Piazzesi](https://economics.ucla.edu/wp-content/uploads/2016/10/piazzesi.pdf)
 
 [How to Present Results - David Levine](http://faculty.haas.berkeley.edu/levine/cheap_advice.html#results)
