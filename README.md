@@ -63,6 +63,8 @@
 
 :star: [Translating Stata to R](https://stata2r.github.io/) - This website is for Stata users who are interested in learning R. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.
 
+:star: [Reproducible Analytical Pipelines - Bruno Rodrigues](https://rap4mads.eu/) - The basic idea of a reproducible analytical pipeline (RAP) is to have code that always produces the same result when run, whatever this result might be. This is obviously crucial in research and science, but this is also the case in businesses that deal with data science/data-driven decision making etc.
+
 [Social Science Reproduction Platform](https://www.socialsciencereproduction.org/) - The Social Science Reproduction Platform (SSRP) crowdsources and catalogs attempts to assess and improve the computational reproducibility of social science research. Instructors can use the SSRP in applied social science courses at the graduate or undergraduate levels to teach fundamental concepts, methods, and reproducible research practices.
 
 [Project TIER](https://www.projecttier.org/about/about-project-tier/) - Project dedicated to developing methods and tools for enhancing research transparency.
@@ -82,15 +84,17 @@
 
 ### Other
 
-:star: [GitHub and Dropbox](https://github.com/kbjarkefur/GitHubDropBox) - Tutorial on how to combine GitHub and DropBox
+[GitHub and Dropbox](https://github.com/kbjarkefur/GitHubDropBox) - Tutorial on how to combine GitHub and DropBox
 
-:star: [A Brief Introduction to GitHub for Social Scientists using Stata and Dropbox](https://github.com/hpellegrina/hello-world-econ/blob/master/documentation/github-manual.pdf) - This is a Hello World for social scientists using Stata and Dropbox! Here, we will walk through the basics of GitHub: how to download a repository from the internet, how to integrate your repository with Dropbox, and how to upload the changes that you made in your repository to the cloud of GitHub.
+[A Brief Introduction to GitHub for Social Scientists using Stata and Dropbox](https://github.com/hpellegrina/hello-world-econ/blob/master/documentation/github-manual.pdf) - This is a Hello World for social scientists using Stata and Dropbox! Here, we will walk through the basics of GitHub: how to download a repository from the internet, how to integrate your repository with Dropbox, and how to upload the changes that you made in your repository to the cloud of GitHub.
 
 [Replicability Presentations - Lars Vilhuber](https://github.com/labordynamicsinstitute/replicability-presentation-2020) - In this talk, I describe the context in which the current discussion in the social science is occurring: what are the definitions of replicability and reproducibility, what is failing, and to what extent. I discuss progress over the past 15 years. Finally, I discuss the concrete measures that have been implemented under my guidance at the American Economic Association, and the first preliminary outcomes from those measures. I conclude with some observations on how to integrate reproducibility into the scientific workflow in the social and statistical sciences.
  
 [Research Compendia](https://doi.org/10.7287/peerj.preprints.3192v2) - Paper about uses of R to produce research compendia.
 
 ### Examples
+
+:star: [Code and data for "Skeptic priors and climate consensus" (McDermott, 2021)](https://github.com/grantmcdermott/skeptic-priors)
 
 [Suparna Chaudhry, Marc Dotson, and Andrew Heiss (2021)](https://github.com/andrewheiss/who-cares-about-crackdown#data)  
 
