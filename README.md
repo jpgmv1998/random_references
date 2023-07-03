@@ -367,6 +367,8 @@ peer-reviewed journal.
 
 :star: [Links for Advice to PhD Students - Tobias Klein](https://www.tobiasklein.ws/ph-d-students)
 
+:star: [R4Econ](https://github.com/hblackburn/R4Econ) - Shared resources for Econ Research Assistants and any other Econs working in R
+
 [Resources - Sebastian Tello-Trillo](https://sebastiantellotrillo.com/resources)
 
 [Resources - Jennifer Doleac](http://jenniferdoleac.com/resources/)
